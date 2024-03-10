@@ -1,0 +1,270 @@
+cd .. && checkpatch.pl -f src/*.c tests/snippets/*.c
+-----------
+src/osmem.c
+-----------
+total: 0 errors, 0 warnings, 337 lines checked
+
+src/osmem.c has no obvious style problems and is ready for submission.
+-------------------------
+tests/snippets/test-all.c
+-------------------------
+total: 0 errors, 0 warnings, 87 lines checked
+
+tests/snippets/test-all.c has no obvious style problems and is ready for submission.
+-----------------------------------
+tests/snippets/test-calloc-arrays.c
+-----------------------------------
+total: 0 errors, 0 warnings, 51 lines checked
+
+tests/snippets/test-calloc-arrays.c has no obvious style problems and is ready for submission.
+----------------------------------------
+tests/snippets/test-calloc-block-reuse.c
+----------------------------------------
+total: 0 errors, 0 warnings, 40 lines checked
+
+tests/snippets/test-calloc-block-reuse.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-calloc-coalesce-big.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 27 lines checked
+
+tests/snippets/test-calloc-coalesce-big.c has no obvious style problems and is ready for submission.
+-------------------------------------
+tests/snippets/test-calloc-coalesce.c
+-------------------------------------
+total: 0 errors, 0 warnings, 44 lines checked
+
+tests/snippets/test-calloc-coalesce.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-calloc-expand-block.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 21 lines checked
+
+tests/snippets/test-calloc-expand-block.c has no obvious style problems and is ready for submission.
+-------------------------------------------
+tests/snippets/test-calloc-no-preallocate.c
+-------------------------------------------
+total: 0 errors, 0 warnings, 19 lines checked
+
+tests/snippets/test-calloc-no-preallocate.c has no obvious style problems and is ready for submission.
+-------------------------------------
+tests/snippets/test-calloc-no-split.c
+-------------------------------------
+total: 0 errors, 0 warnings, 38 lines checked
+
+tests/snippets/test-calloc-no-split.c has no obvious style problems and is ready for submission.
+----------------------------------------
+tests/snippets/test-calloc-preallocate.c
+----------------------------------------
+total: 0 errors, 0 warnings, 13 lines checked
+
+tests/snippets/test-calloc-preallocate.c has no obvious style problems and is ready for submission.
+----------------------------------------
+tests/snippets/test-calloc-split-first.c
+----------------------------------------
+total: 0 errors, 0 warnings, 26 lines checked
+
+tests/snippets/test-calloc-split-first.c has no obvious style problems and is ready for submission.
+---------------------------------------
+tests/snippets/test-calloc-split-last.c
+---------------------------------------
+total: 0 errors, 0 warnings, 33 lines checked
+
+tests/snippets/test-calloc-split-last.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-calloc-split-middle.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 45 lines checked
+
+tests/snippets/test-calloc-split-middle.c has no obvious style problems and is ready for submission.
+--------------------------------------------
+tests/snippets/test-calloc-split-one-block.c
+--------------------------------------------
+total: 0 errors, 0 warnings, 22 lines checked
+
+tests/snippets/test-calloc-split-one-block.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-calloc-split-vector.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 39 lines checked
+
+tests/snippets/test-calloc-split-vector.c has no obvious style problems and is ready for submission.
+-----------------------------------
+tests/snippets/test-malloc-arrays.c
+-----------------------------------
+total: 0 errors, 0 warnings, 51 lines checked
+
+tests/snippets/test-malloc-arrays.c has no obvious style problems and is ready for submission.
+----------------------------------------
+tests/snippets/test-malloc-block-reuse.c
+----------------------------------------
+total: 0 errors, 0 warnings, 36 lines checked
+
+tests/snippets/test-malloc-block-reuse.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-malloc-coalesce-big.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 28 lines checked
+
+tests/snippets/test-malloc-coalesce-big.c has no obvious style problems and is ready for submission.
+-------------------------------------
+tests/snippets/test-malloc-coalesce.c
+-------------------------------------
+total: 0 errors, 0 warnings, 42 lines checked
+
+tests/snippets/test-malloc-coalesce.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-malloc-expand-block.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 21 lines checked
+
+tests/snippets/test-malloc-expand-block.c has no obvious style problems and is ready for submission.
+-------------------------------------------
+tests/snippets/test-malloc-no-preallocate.c
+-------------------------------------------
+total: 0 errors, 0 warnings, 15 lines checked
+
+tests/snippets/test-malloc-no-preallocate.c has no obvious style problems and is ready for submission.
+-------------------------------------
+tests/snippets/test-malloc-no-split.c
+-------------------------------------
+total: 0 errors, 0 warnings, 38 lines checked
+
+tests/snippets/test-malloc-no-split.c has no obvious style problems and is ready for submission.
+----------------------------------------
+tests/snippets/test-malloc-preallocate.c
+----------------------------------------
+total: 0 errors, 0 warnings, 13 lines checked
+
+tests/snippets/test-malloc-preallocate.c has no obvious style problems and is ready for submission.
+----------------------------------------
+tests/snippets/test-malloc-split-first.c
+----------------------------------------
+total: 0 errors, 0 warnings, 31 lines checked
+
+tests/snippets/test-malloc-split-first.c has no obvious style problems and is ready for submission.
+---------------------------------------
+tests/snippets/test-malloc-split-last.c
+---------------------------------------
+total: 0 errors, 0 warnings, 33 lines checked
+
+tests/snippets/test-malloc-split-last.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-malloc-split-middle.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 41 lines checked
+
+tests/snippets/test-malloc-split-middle.c has no obvious style problems and is ready for submission.
+--------------------------------------------
+tests/snippets/test-malloc-split-one-block.c
+--------------------------------------------
+total: 0 errors, 0 warnings, 29 lines checked
+
+tests/snippets/test-malloc-split-one-block.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-malloc-split-vector.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 37 lines checked
+
+tests/snippets/test-malloc-split-vector.c has no obvious style problems and is ready for submission.
+------------------------------------
+tests/snippets/test-realloc-arrays.c
+------------------------------------
+total: 0 errors, 0 warnings, 44 lines checked
+
+tests/snippets/test-realloc-arrays.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-realloc-block-reuse.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 38 lines checked
+
+tests/snippets/test-realloc-block-reuse.c has no obvious style problems and is ready for submission.
+------------------------------------------
+tests/snippets/test-realloc-coalesce-big.c
+------------------------------------------
+total: 0 errors, 0 warnings, 32 lines checked
+
+tests/snippets/test-realloc-coalesce-big.c has no obvious style problems and is ready for submission.
+--------------------------------------
+tests/snippets/test-realloc-coalesce.c
+--------------------------------------
+total: 0 errors, 0 warnings, 60 lines checked
+
+tests/snippets/test-realloc-coalesce.c has no obvious style problems and is ready for submission.
+------------------------------------------
+tests/snippets/test-realloc-expand-block.c
+------------------------------------------
+total: 0 errors, 0 warnings, 24 lines checked
+
+tests/snippets/test-realloc-expand-block.c has no obvious style problems and is ready for submission.
+--------------------------------------------
+tests/snippets/test-realloc-no-preallocate.c
+--------------------------------------------
+total: 0 errors, 0 warnings, 14 lines checked
+
+tests/snippets/test-realloc-no-preallocate.c has no obvious style problems and is ready for submission.
+--------------------------------------
+tests/snippets/test-realloc-no-split.c
+--------------------------------------
+total: 0 errors, 0 warnings, 36 lines checked
+
+tests/snippets/test-realloc-no-split.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-realloc-preallocate.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 14 lines checked
+
+tests/snippets/test-realloc-preallocate.c has no obvious style problems and is ready for submission.
+-----------------------------------------
+tests/snippets/test-realloc-split-first.c
+-----------------------------------------
+total: 0 errors, 0 warnings, 39 lines checked
+
+tests/snippets/test-realloc-split-first.c has no obvious style problems and is ready for submission.
+----------------------------------------
+tests/snippets/test-realloc-split-last.c
+----------------------------------------
+total: 0 errors, 0 warnings, 47 lines checked
+
+tests/snippets/test-realloc-split-last.c has no obvious style problems and is ready for submission.
+------------------------------------------
+tests/snippets/test-realloc-split-middle.c
+------------------------------------------
+total: 0 errors, 0 warnings, 55 lines checked
+
+tests/snippets/test-realloc-split-middle.c has no obvious style problems and is ready for submission.
+---------------------------------------------
+tests/snippets/test-realloc-split-one-block.c
+---------------------------------------------
+total: 0 errors, 0 warnings, 37 lines checked
+
+tests/snippets/test-realloc-split-one-block.c has no obvious style problems and is ready for submission.
+------------------------------------------
+tests/snippets/test-realloc-split-vector.c
+------------------------------------------
+total: 0 errors, 0 warnings, 49 lines checked
+
+tests/snippets/test-realloc-split-vector.c has no obvious style problems and is ready for submission.
+
+NOTE: Ignored message types: ARRAY_SIZE AVOID_EXTERNS C99_COMMENTS EMAIL_SUBJECT ENOSYS FILE_PATH_CHANGES GIT_COMMIT_ID NEW_TYPEDEFS SYMBOLIC_PERMS
+cd .. && checkpatch.pl -f checker/*.sh tests/*.sh
+------------------
+checker/checker.sh
+------------------
+total: 0 errors, 0 warnings, 11 lines checked
+
+checker/checker.sh has no obvious style problems and is ready for submission.
+--------------
+tests/grade.sh
+--------------
+total: 0 errors, 0 warnings, 136 lines checked
+
+tests/grade.sh has no obvious style problems and is ready for submission.
+
+NOTE: Ignored message types: ARRAY_SIZE AVOID_EXTERNS C99_COMMENTS EMAIL_SUBJECT ENOSYS FILE_PATH_CHANGES GIT_COMMIT_ID NEW_TYPEDEFS SYMBOLIC_PERMS
+cd .. && cpplint --recursive src/ tests/
+/bin/sh: 1: cpplint: not found
+make: [Makefile:39: lint] Error 127 (ignored)
+cd .. && shellcheck checker/*.sh tests/*.sh
+/bin/sh: 1: shellcheck: not found
+make: [Makefile:40: lint] Error 127 (ignored)
